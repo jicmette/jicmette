@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Israel Carmona from Saltillo, Coahuila, Mexico.
 - 👀 I’m interested in Web and Software Development. HTML, CSS, Javascript, C# and Python. 
 - 🌱 I’m currently learning and working with HTML, CSS, SASS, Javascript, C# and Python. 
-- 💞️ I’m looking to collaborate on projects in Web Development and Data Science.
+- 💞️ I’m looking to collaborate on projects in Web and Software Development.
 - 📫 How to reach me: jicmettesc@gmail.com or jicmette username in Telegram. 
 
 <!---
