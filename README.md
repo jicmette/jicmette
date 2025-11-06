@@ -60,3 +60,24 @@ You can connect with me here:
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuragazra/github-readme-stats">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=jicmette&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    />
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jicmette&layout=compact&langs_count=8&theme=dark"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/jicmette?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
+</p>
