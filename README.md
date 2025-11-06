@@ -9,7 +9,7 @@ I'm a passionate software developer based in **Saltillo, Coahuila, Mexico**, wit
 
 ---
 
-### 💻 My Tech Stack & Current Focus
+### 💻 My Tech Stack
 
 I love working across the full stack and am always expanding my toolkit. Here's what I'm working with:
 
