@@ -50,5 +50,13 @@ I love working across the full stack and am always expanding my toolkit. Here's 
 
 ### 📫 How to Reach Me
 
-* **Email:** `hello@israelcarmona.dev`
-* **Telegram:** `jicmette`
+You can connect with me here:
+
+<p>
+  <a href="mailto:hello@israelcarmona.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://t.me/jicmette">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
