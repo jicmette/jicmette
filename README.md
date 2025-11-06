@@ -12,6 +12,7 @@ I'm a passionate software developer based in **Saltillo, Coahuila, Mexico**, wit
 ### 💻 My Tech Stack & Current Focus
 
 I love working across the full stack and am always expanding my toolkit. Here's what I'm working with:
+
 **Languages:**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
