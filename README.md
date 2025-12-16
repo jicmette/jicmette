@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Israel Carmona
 
-I'm a passionate software developer based in **Saltillo, Coahuila, Mexico**, with a drive for building and learning all things related to technology, computers, and development.
+I'm a passionate Full Stack Software Developer based in **Saltillo, Coahuila, Mexico**, with a drive for building and learning all things related to technology, computers, and development.
 
 * 🎓 I recently earned my **Associate of Applied Science in Software Development** (October 2025).
 * 🚀 I'm currently a student pursuing my **Bachelor of Science in Software Development** (expected August 2026).
