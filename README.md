@@ -1,11 +1,11 @@
-# 👋 Hello! I'm Israel Carmona
+# Hello! I'm Israel Carmona
 
 I'm a passionate Full Stack Software Developer based in **Mexico**, with a drive for building and learning all things related to technology, computers, and development.
 
-* 🎓 I recently earned my **Associate of Applied Science in Software Development** (October 2025).
-* 🚀 I'm currently a student pursuing my **Bachelor of Science in Software Development** (expected August 2026).
-* 🌱 I'm a lifelong learner, constantly honing my skills and diving deep into new technologies.
-* 💞️ I’m actively looking to collaborate on innovative projects in Web and Software Development.
+* I recently earned my **Associate of Applied Science in Software Development** (October 2025).
+* I'm currently a student pursuing my **Bachelor of Science in Software Development** (expected June 2026).
+* I'm a lifelong learner, constantly honing my skills and diving deep into new technologies.
+* I’m actively looking to collaborate on innovative projects in Web and Software Development.
 
 ---
 
@@ -49,8 +49,6 @@ I love working across the full stack and am always expanding my toolkit. Here's 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
 </p>
 
