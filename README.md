@@ -1,11 +1,11 @@
 # Hello! I'm Israel Carmona
 
-I'm a passionate Full Stack Software Developer based in **Mexico**, with a drive for building and learning all things related to technology, computers, and development.
+I'm a passionate Software Engineer based in **Mexico**, with a drive for building and learning all things related to technology, computers, and development.
 
-* I recently earned my **Associate of Applied Science in Software Development** (October 2025).
-* I'm currently a student pursuing my **Bachelor of Science in Software Development** (expected June 2026).
+* I hold a **Bachelor of Applied Science in Software Development from Brigham Young University - Idaho** (June 2026).
+* I have a strong focus on building scalable web and mobile applications using modern technologies.
 * I'm a lifelong learner, constantly honing my skills and diving deep into new technologies.
-* I’m actively looking to collaborate on innovative projects in Web and Software Development.
+* I’m actively looking to collaborate on innovative software engineering projects.
 
 ---
 
@@ -40,7 +40,14 @@ I love working across the full stack and am always expanding my toolkit. Here's 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+</p>
+
+**Methodologies & Management:**
+<p>
+  <img src="https://img.shields.io/badge/Agile-33A8FF?style=for-the-badge&logo=git&logoColor=white" alt="Agile">
+  <img src="https://img.shields.io/badge/Scrum-0091FF?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
 </p>
 
 **Software & Tools:**
